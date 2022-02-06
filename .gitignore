@@ -128,4 +128,11 @@ dmypy.json
 # Pyre type checker
 .pyre/
 # custom 
+<<<<<<< HEAD
 data/ 
+training_checkpoints/
+application_data/
+siamesemodel.h5
+=======
+data/ 
+>>>>>>> parent of 26490b2 (update notebook and saved model)
